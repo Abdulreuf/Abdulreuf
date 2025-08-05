@@ -1,27 +1,61 @@
-<h1 align="center">Hi 👋, I'm @Abdulreuf</h1>
-<h3 align="center">A passionate software developer from Ethiopia</h3>
+<h1 align="center">Hi there, I'm Abdulreuf 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulreuf" alt="abdulreuf" /></a> </p>
-
-- 🔭 I’m currently working on [Digital marketing platform](Ethionex.com)
-
-- 🌱 I’m currently learning **MERN STACK AND AWS architectures**
-
-- 👨‍💻 All of my projects are available at [Abdulreuf.Ethionex.com](Abdulreuf.Ethionex.com)
-
-- 📫 How to reach me **Abdulreufkedir@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abdulreuf kedir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulreuf kedir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@abdulreuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@abdulreuf" height="30" width="40" /></a>
+<p align="center">
+  💻 IT Support @ GM Furniture | 🌍 Addis Ababa, Ethiopia <br>
+  🚀 Aspiring DevOps & Cloud Engineer | 🛠️ Learning AWS, Docker & Terraform
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulreuf&show_icons=true&locale=en&layout=compact" alt="abdulreuf" /></p>
+### 🧠 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulreuf&show_icons=true&locale=en" alt="abdulreuf" /></p>
+- 🔭 I’m currently working on:  
+  Supporting employees in using Odoo ERP (Purchase & Manufacturing Apps) effectively.
+
+- 🧑‍🤝‍🧑 I’m looking to collaborate on:  
+  Beginner-friendly DevOps projects, cloud infrastructure builds, and automation tools.
+
+- 🤝 I’m looking for help with:  
+  Learning Kubernetes, Terraform, and real-world CI/CD practices.
+
+- 🌱 I’m currently learning:  
+  AWS (EC2, IAM, S3), Docker, GitHub Actions, and Infrastructure as Code (IaC).
+
+- 💬 Ask me about:  
+  ERP system usage (especially Odoo), career transitions in tech, or my DevOps learning journey.
+
+- ⚡ Fun fact:  
+  I love history, technology, and football — and I believe every problem has a clean solution through code.
+
+---
+
+### 🛠️ Technologies & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-872B84?style=for-the-badge&logo=odoo&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulreufkedir&show_icons=true&theme=github_dark&count_private=true" alt="Abdulreuf's GitHub stats" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here/)
+- ✉️ abdulreufkedir@gmail.com
+- 🌐 [Coming soon: EthioNex.com](#)
+
+---
+
+*“Success is not just about hard work — it's about direction, consistency, and purpose.”*
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulreuf&" alt="abdulreuf" /></p>
