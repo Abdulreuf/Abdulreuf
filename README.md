@@ -43,14 +43,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulreufkedir&show_icons=true&theme=github_dark&count_private=true" alt="Abdulreuf's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulreuf&show_icons=true&theme=github_dark&count_private=true" alt="Abdulreuf's GitHub stats" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here/)
+- 🔗 [LinkedIn](www.linkedin.com/in/abdulreuf)
 - ✉️ abdulreufkedir@gmail.com
 - 🌐 [Coming soon: EthioNex.com](#)
 
